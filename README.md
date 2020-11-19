@@ -22,7 +22,7 @@
 
 위와 같은 기능을 가지는 `Menu` 클래스를 작성하는 것이 이번 과제의 목표입니다. 제대로 작성된 `Menu` 클래스의 실행 예시들은 아래와 같습니다. 직접 테스트해보기 바랍니다.
 
-```s
+```vim
 >>> menu = Menu()
 >>> menu.add_meal("Burger")
 >>> menu.add_meal("Pizza")
